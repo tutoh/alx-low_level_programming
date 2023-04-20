@@ -1,10 +1,12 @@
-#!/bin/bash
 #include <stdio.h>
+/**
+ * main -Entry point
+ * Return:always 0 (success)
+ */
+int main(void)
+{
+	printf(* with proper grammar, but the outcome is a piece of art, \n* } i
+	Return(0);
+}	
 
-int main(void) {
-    printf("Roses are red,\n");
-    printf("Violets are blue,\n");
-    printf("Sugar is sweet,\n");
-    printf("And so are you.\n");
-    return 0;
-}
+	 
